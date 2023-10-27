@@ -1,7 +1,7 @@
-<H1> Meu nome é Julia Beatriz</H1> 
+<H1>Julia Beatriz</H1> 
 
 <p> <em>Julia Beatriz </em> </p>
-<p>Zona: Sul</m></p>
+<p>Zona:Sul</m></p>
 <p>Colegio:Hugo simas</p>
 <html> Cidade: Londrina </html>
 
