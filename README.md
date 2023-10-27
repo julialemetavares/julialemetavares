@@ -2,7 +2,7 @@
 
 <p> <em>Julia Beatriz </em> </p>
 <p>Zona: Sul</m></p>
-<p>Coĺegio:Hugo simas></p>
+<p>Colegio:Hugo simas</p>
 <html> Cidade: Londrina </html>
 
  <p>  Sobre Mim </p>
